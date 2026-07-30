@@ -86,3 +86,4 @@ test.md:89:6:Microsoft.Terms:Prefer 'a DLL' over 'an DLL'.
 test.md:89:22:Microsoft.Terms:Prefer 'an ISP' over 'a ISP'.
 test.md:89:39:Microsoft.Terms:Prefer 'an SQL' over 'a SQL'.
 test.md:89:59:Microsoft.Terms:Prefer 'a URL' over 'an URL'.
+test.md:91:11:Microsoft.FirstPerson:Use first person (such as 'I') sparingly.

@@ -87,3 +87,5 @@ Bring a mobile computer or wireless phone that uses smart technology.
 Mouse over the link to preview it.
 
 Load an DLL, contact a ISP, and query a SQL database with an URL.
+
+Yesterday I walked to the park.
