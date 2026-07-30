@@ -8,6 +8,16 @@ I like red, blue, green and orange.
 
 I like red, blue, green, and orange.
 
+Save your file to a hard drive, an external drive or OneDrive.
+
+Save your file to a hard drive, an external drive, or OneDrive.
+
+In modern JavaScript, it has some downsides and is officially discouraged.
+
+Specify the target, either as a URL path or a local filesystem path.
+
+If this happens, lexical and syntactic information is available in addition to the values representing the syntax errors encountered during parsing.
+
 He said, "Well, that was something".
 
 He said, "Well, that was something."

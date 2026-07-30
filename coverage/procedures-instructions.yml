@@ -1,0 +1,7 @@
+writing-step-by-step-instructions: false
+
+# UIVerbs.yml
+describing-interactions-with-the-ui: true
+
+describing-alternative-input-methods: false
+formatting-text-in-instructions: false

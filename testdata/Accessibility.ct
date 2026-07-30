@@ -1,0 +1,4 @@
+$ cdf ${ROOTDIR}/fixtures/Accessibility
+$ vale --output=line --sort --normalize --relative --no-global --no-exit .
+test.md:3:110:Microsoft.Accessibility:Don't use language (such as 'able-bodied') that defines people by their disability.
+test.md:5:24:Microsoft.Accessibility:Don't use language (such as 'crippled') that defines people by their disability.

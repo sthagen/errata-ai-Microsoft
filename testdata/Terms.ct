@@ -1,0 +1,88 @@
+$ cdf ${ROOTDIR}/fixtures/Terms
+$ vale --output=line --sort --normalize --relative --no-global --no-exit .
+test.md:3:25:Microsoft.Avoid:Don't use 'abortion'. See the A-Z word list for details.
+test.md:5:9:Microsoft.Vocab:Verify your use of 'and/or' with the A-Z word list.
+test.md:7:8:Microsoft.Adverbs:Remove 'very' if it's not important to the meaning of the statement.
+test.md:9:1:Microsoft.FirstPerson:Use first person (such as 'I') sparingly.
+test.md:9:27:Microsoft.Wordiness:Consider using 'enough' instead of 'an adequate number of'.
+test.md:11:9:Microsoft.Vocab:Verify your use of 'ensure' with the A-Z word list.
+test.md:17:1:Microsoft.FirstPerson:Use first person (such as 'I') sparingly.
+test.md:19:13:Microsoft.FirstPerson:Use first person (such as 'me') sparingly.
+test.md:21:1:Microsoft.FirstPerson:Use first person (such as 'I'm') sparingly.
+test.md:23:1:Microsoft.We:Try to avoid using first-person plural like 'We'.
+test.md:25:9:Microsoft.FirstPerson:Use first person (such as 'my') sparingly.
+test.md:27:14:Microsoft.FirstPerson:Use first person (such as 'mine') sparingly.
+test.md:29:17:Microsoft.We:Try to avoid using first-person plural like 'us'.
+test.md:31:1:Microsoft.We:Try to avoid using first-person plural like 'Let's'.
+test.md:33:1:Microsoft.FirstPerson:Use first person (such as 'I') sparingly.
+test.md:33:21:Microsoft.We:Try to avoid using first-person plural like 'our'.
+test.md:35:1:Microsoft.We:Try to avoid using first-person plural like 'We'.
+test.md:37:1:Microsoft.FirstPerson:Use first person (such as 'I') sparingly.
+test.md:37:21:Microsoft.Wordiness:Consider using 'to' instead of 'as a means to'.
+test.md:39:1:Microsoft.Vocab:Verify your use of 'Set the' with the A-Z word list.
+test.md:41:1:Microsoft.Vocab:Verify your use of 'Specify' with the A-Z word list.
+test.md:45:13:Microsoft.Terms:Prefer 'adapter' over 'adaptor'.
+test.md:45:35:Microsoft.Terms:Prefer 'antivirus' over 'anti-virus'.
+test.md:47:28:Microsoft.Terms:Prefer 'chatbot(s)' over 'chat bot'.
+test.md:47:62:Microsoft.Terms:Prefer 'audiobook' over 'audio-book'.
+test.md:49:15:Microsoft.Terms:Prefer 'GB' over 'gb'.
+test.md:49:35:Microsoft.Terms:Prefer 'alphanumeric' over 'alphanumerical'.
+test.md:51:14:Microsoft.Terms:Prefer 'broadcast' over 'broadcasted'.
+test.md:51:36:Microsoft.We:Try to avoid using first-person plural like 'we'.
+test.md:51:51:Microsoft.Terms:Prefer 'zeros' over 'zeroes'.
+test.md:51:65:Microsoft.Terms:Prefer 'matrices' over 'matrixes'.
+test.md:53:9:Microsoft.Terms:Prefer 'OK' over 'okay'.
+test.md:53:18:Microsoft.Terms:Prefer 'OK' over 'alright'.
+test.md:53:44:Microsoft.Terms:Prefer 'path' over 'pathname'.
+test.md:55:13:Microsoft.Terms:Prefer 'video driver' over 'display driver'.
+test.md:55:37:Microsoft.Terms:Prefer 'video card' over 'graphics adapter'.
+test.md:57:14:Microsoft.Terms:Prefer 'e-book' over 'ebook'.
+test.md:57:30:Microsoft.Terms:Prefer 'e-commerce' over 'ecommerce'.
+test.md:57:41:Microsoft.Terms:Prefer 'e-learning' over 'elearning'.
+test.md:57:56:Microsoft.Terms:Prefer 'e-sports' over 'esports'.
+test.md:59:11:Microsoft.Terms:Prefer 'italic' over 'italics'.
+test.md:59:26:Microsoft.Terms:Prefer 'movable' over 'moveable'.
+test.md:59:35:Microsoft.Terms:Prefer 'numeric' over 'numerical'.
+test.md:59:63:Microsoft.Terms:Prefer 'read/write' over 'read-write'.
+test.md:61:8:Microsoft.Terms:Prefer 'IT pro' over 'IT professional'.
+test.md:61:30:Microsoft.Terms:Prefer 'IT' over 'information technology'.
+test.md:61:60:Microsoft.Terms:Prefer 'root directory' over 'home directory'.
+test.md:63:8:Microsoft.Terms:Prefer 'font' over 'typeface'.
+test.md:63:20:Microsoft.Terms:Prefer 'font style' over 'type style'.
+test.md:63:38:Microsoft.Terms:Prefer 'font size' over 'type size'.
+test.md:63:65:Microsoft.Terms:Prefer 'button' over 'command button'.
+test.md:65:5:Microsoft.Terms:Prefer 'alphanumeric' over 'alphanumerical'.
+test.md:65:29:Microsoft.Terms:Prefer 'nonprintable' over 'unprintable'.
+test.md:65:59:Microsoft.Terms:Prefer 'lowercase' over 'lowercased'.
+test.md:67:10:Microsoft.Terms:Prefer 'specification' over 'spec'.
+test.md:67:51:Microsoft.Terms:Prefer 'user' over 'end user'.
+test.md:69:12:Microsoft.Terms:Prefer 'license terms' over 'licensing terms'.
+test.md:69:35:Microsoft.Terms:Prefer 'Microsoft Software License Terms' over 'End-User License Agreement'.
+test.md:71:1:Microsoft.Terms:Prefer 'we recommend' over 'Microsoft recommends'.
+test.md:71:22:Microsoft.Terms:Prefer 'bold' over 'bolded'.
+test.md:71:39:Microsoft.Terms:Prefer 'dialog box' over 'pop-up window'.
+test.md:71:56:Microsoft.Terms:Prefer 'dialog box' over 'dialogue box'.
+test.md:73:9:Microsoft.Terms:Prefer 'different from' over 'different to'.
+test.md:73:26:Microsoft.Terms:Prefer 'destination drive' over 'target drive'.
+test.md:73:44:Microsoft.Terms:Prefer 'destination file' over 'target file'.
+test.md:73:65:Microsoft.Terms:Prefer 'main document' over 'core document'.
+test.md:75:12:Microsoft.Terms:Prefer 'Maximize button' over 'Maximize box'.
+test.md:75:35:Microsoft.Terms:Prefer 'Minimize button' over 'Minimize icon'.
+test.md:77:12:Microsoft.Terms:Prefer 'on-premises' over 'on-premise'.
+test.md:77:38:Microsoft.Terms:Prefer 'off-premises' over 'off-premise'.
+test.md:79:16:Microsoft.Terms:Prefer 'KB' over 'KByte'.
+test.md:79:45:Microsoft.Terms:Prefer 'noon' over '12:00 noon'.
+test.md:79:59:Microsoft.Terms:Prefer 'midnight' over '12:00 midnight'.
+test.md:81:1:Microsoft.Terms:Prefer 'double-click' over 'Double-click on'.
+test.md:81:41:Microsoft.Terms:Prefer 'pointer' over 'insertion point'.
+test.md:83:14:Microsoft.Terms:Prefer 'hosting provider' over 'hoster'.
+test.md:83:31:Microsoft.Terms:Prefer 'pen' over 'stylus'.
+test.md:83:46:Microsoft.Terms:Prefer 'numeric keypad' over 'numeric keyboard'.
+test.md:85:9:Microsoft.Terms:Prefer 'computer' over 'mobile computer'.
+test.md:85:28:Microsoft.Terms:Prefer 'phone' over 'wireless phone'.
+test.md:85:53:Microsoft.Terms:Prefer 'intelligent technology' over 'smart technology'.
+test.md:87:1:Microsoft.Terms:Prefer 'hover over' over 'Mouse over'.
+test.md:89:6:Microsoft.Terms:Prefer 'a DLL' over 'an DLL'.
+test.md:89:22:Microsoft.Terms:Prefer 'an ISP' over 'a ISP'.
+test.md:89:39:Microsoft.Terms:Prefer 'an SQL' over 'a SQL'.
+test.md:89:59:Microsoft.Terms:Prefer 'a URL' over 'an URL'.

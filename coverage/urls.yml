@@ -1,6 +1,8 @@
-# AnURL.yml
+# GeneralURL.yml
 general-audience: true
 
-# URLFormat.yml
+# Terms.yml
 a-an: true
+
+# URLFormat.yml
 of-for: true

@@ -1,0 +1,5 @@
+$ cdf ${ROOTDIR}/fixtures/UIVerbs
+$ vale --output=line --sort --normalize --relative --no-global --no-exit .
+test.md:3:1:Microsoft.UIVerbs:Use 'select' instead of the input-specific verb 'Click on'.
+test.md:3:33:Microsoft.UIVerbs:Use 'select' instead of the input-specific verb 'click'.
+test.md:11:1:Microsoft.UIVerbs:Use 'select' instead of the input-specific verb 'Swipe'.

@@ -1,0 +1,4 @@
+$ cdf ${ROOTDIR}/fixtures/Gender
+$ vale --output=line --sort --normalize --relative --no-global --no-exit .
+test.md:3:6:Microsoft.Gender:Don't use 'he/she'.
+test.md:5:5:Microsoft.GenderBias:Consider using 'camera operator(s)' instead of 'cameraman'.

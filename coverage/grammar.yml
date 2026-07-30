@@ -13,7 +13,7 @@ capitalization-and-proper-nouns: false
 plural-nouns: false
 
 # Gender.yml, Vocab.yml
-pronouns-and-gender: True
+pronouns-and-gender: true
 
 noun-and-pronoun-agreement: false
 words-ending-in-ing: false

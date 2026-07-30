@@ -10,7 +10,7 @@ active-player-active-user: false
 adapter: true #Terms.yml
 add: false
 add-in-add-on: false
-adjacent-selection: false
+adjacent-selection: true #Avoid.yml
 administer: true #Terms.yml
 administrator-admin: true #Terms.yml
 afterward: true #Terms.yml
@@ -54,7 +54,7 @@ auto: true #Auto.yml
 avg: true #Vocab.yml
 
 # B
-back-end: true #Backend.yml, #Avoid.yml
+back-end: true #Avoid.yml
 back-up-backup: false
 backbone: true #Avoid.yml
 backlight: true #Terms.yml
@@ -83,7 +83,7 @@ blue-screen-bluescreen: false
 bluetooth: false
 blu-ray-disk: false
 board: false
-bold: false
+bold: true #Terms.yml
 bookmark: false
 boolean: false
 boot: false
@@ -93,12 +93,12 @@ bounding-outline: false
 box: false
 bps: true #Terms.yml
 breakpoint: false
-broadcast: false #Passive.yml
+broadcast: true #Terms.yml
 browse: false
 bug-fix: false
 build: false
 bulk: false
-button: false
+button: true #Terms.yml
 by: false
 
 # C
@@ -194,13 +194,13 @@ depress-depressed: false
 deselect: false
 desktop: false
 destination: false
-destination-drive-destination-file: false
+destination-drive-destination-file: true #Terms.yml
 device: false
 device-driver-driver: false
 devops: false
-dialog-box-dialog-dialogue: false
+dialog-box-dialog-dialogue: true #Terms.yml
 dial-up: false
-different: false
+different: true #Terms.yml
 dimmed: false
 direction-keys: false
 directory: false
@@ -218,7 +218,7 @@ domain: false
 dot-com: false
 dotted-rectangle: false
 double-buffering: false
-double-click-double-clicking: false
+double-click-double-clicking: true #Terms.yml
 downgrade: false
 download: false
 drag-and-drop: true #Wordiness.yml
@@ -233,14 +233,14 @@ dynamic-service-capacity: false
 # E
 eg: true #Foreign.yml
 earlier: false
-e-book: false
-e-commerce: false
-e-discovery: false
+e-book: true #Terms.yml
+e-commerce: true #Terms.yml
+e-discovery: true #Terms.yml
 edutainment: false
 e-form-form: false
 either-or: false
 elastic-service-capacity: false
-e-learning: false
+e-learning: true #Terms.yml
 ellipsis-button: false
 email: false
 embed: false
@@ -256,7 +256,7 @@ enterprise: false
 entry-field: false
 environment-variable: false
 erase: false
-e-sports: false
+e-sports: true #Terms.yml
 et-al: false
 etc: false
 euro: false
@@ -284,7 +284,7 @@ file-attributes: false
 file-explorer: false
 file-name: false
 file-name-extension-extension: false
-finalize: true #ComplexWords.yml
+finalize: false
 find-replace: false
 first-line: false
 fitness-band: false
@@ -294,8 +294,8 @@ flush-flush-to: false
 flyout: false
 folder-folder-icon: false
 following: false
-font-font-style: false
-foo-foobar-fubar: false
+font-font-style: true #Terms.yml
+foo-foobar-fubar: true #Avoid.yml
 footer: false
 foreground-program: false
 format-formatted-formatting: false
@@ -362,7 +362,7 @@ home-home-page: false
 honeypot: false
 host-name: false
 hosted-service: false
-hosting-provider: false
+hosting-provider: true #Terms.yml
 hot-key: false
 hot-link: false
 hot-spot-hotspot: false
@@ -391,7 +391,7 @@ index-indexes-indices: false
 info: false
 infrastructure-as-a-service: false
 initialize: false
-initiate: true #ComplexWords.yml
+initiate: false
 inline: false
 input: false
 input-output: false
@@ -412,8 +412,8 @@ invalid-not-valid: false
 invoke: false
 ip-address: false
 issue: false
-it-pro-it-professional: false
-italic: false
+it-pro-it-professional: true #Terms.yml
+italic: true #Terms.yml
 its-vs-its: false
 
 # J
@@ -432,7 +432,7 @@ keypad: false
 keypress-keystroke: true #Terms.yml
 kilobit: false
 kilobits-per-second: false
-kilobyte: false #Terms.yml
+kilobyte: true #Terms.yml
 kilobytes-per-second: false
 kilohertz: false
 knowledge-base: false
@@ -466,13 +466,13 @@ lock-up: false
 log-on-log-off: false
 lower: false
 lower-left-lower-right: false
-lowercase: false
+lowercase: true #Terms.yml
 low-resolution: false
 
 # M
 machine: false
 machine-learning: false
-main-document: false
+main-document: true #Terms.yml
 makefile: false
 malicious-code: false
 malicious-user: false
@@ -482,8 +482,8 @@ manipulate: false
 marquee: false
 master-slave: false
 mathematical: false
-matrix-matrices: false
-maximize-button-maximize: false
+matrix-matrices: true #Terms.yml
+maximize-button-maximize: true #Terms.yml
 medium-media: false
 megabit: false
 megabits-per-second: false
@@ -500,11 +500,11 @@ microprocessor: false
 microsoft: false
 microsoft-account: false
 microsoft-ai: false
-software-license-terms: false
+software-license-terms: true #Terms.yml
 microsoft-store: false
-midnight: false
+midnight: true #Terms.yml
 million-m: false
-minimize-button-minimize: false
+minimize-button-minimize: true #Terms.yml
 minus-sign: false
 mip-mapping: false
 mission-critical: false
@@ -514,8 +514,8 @@ monitor: false
 monospace: false
 more-than-vs-over: false
 mouse: false
-mouse-over: false
-movable: false
+mouse-over: true #Terms.yml
+movable: true #Terms.yml
 move: false
 mpeg: false
 multi: false
@@ -543,14 +543,14 @@ newsreader: false
 non: false
 nonadjacent-selection: false
 noncontiguous-selection: false
-nonprintable-nonprinting: false
+nonprintable-nonprinting: true #Terms.yml
 normal-normally: false
 notification: false
 notification-area: false
 null: false
 null-terminated-null-terminating: false
 number-sign: false
-numeric: false
+numeric: true #Terms.yml
 
 # O
 object: false
@@ -558,7 +558,7 @@ obsolete: false
 of: false
 offline: false
 off-premises-on-premises: false
-ok-okay: false
+ok-okay: true #Terms.yml
 on: false
 on-the-fly: false
 onboarding: false
@@ -589,7 +589,7 @@ parameter: false
 parent-child: false
 parenthesis-parentheses: false
 passwordless: false
-path: false
+path: true #Terms.yml
 pc: false
 p-code: false
 pen: false
@@ -615,7 +615,7 @@ plug-and-play: false
 plug-in: false
 plus-sign: false
 point-to: false
-pointer: false
+pointer: true #Terms.yml
 pop-up: false
 port: false
 postal-code: false
@@ -655,7 +655,7 @@ ram: false #Acronyms.yml
 range-selection: false
 re: false
 read-only: false
-read-write-read-write-permission: false
+read-write-read-write-permission: true #Terms.yml
 real-time: false
 reboot: false
 recommended: false
@@ -679,7 +679,7 @@ right-click: false
 rights: false
 rom: false
 roman: false
-root-directory: false
+root-directory: true #Terms.yml
 rotate: false
 run-vs-execute: false
 running-foot-running-head: false
@@ -705,7 +705,7 @@ select: false
 server: false
 service-level-agreement-sla: false
 service-oriented-architecture-soa: false
-set-specify: false
+set-specify: true #Vocab.yml
 set-up-setup: false
 setting-value: false
 set-top-box: false
@@ -713,7 +713,7 @@ shaded: false
 shell: false
 ship: false
 shortcut-shortcut-menu: false
-should-vs-must: false
+should-vs-must: true #Terms.yml
 shut-down-shutdown: false
 sign-in-sign-out: false
 simply: false
@@ -734,7 +734,7 @@ software-as-a-service-saas: false
 software-plus-services: false
 sorry: false
 spam: false
-specification: false
+specification: true #Terms.yml
 spell-checker: false
 spin-box: false
 split-bar-split-box: false
@@ -826,7 +826,7 @@ us: false
 usable: false
 usb: true #Acronyms.yml
 use-terms: false
-user-end-user: false
+user-end-user: true #Terms.yml
 user-rights: false
 using-by-using-with: false
 utility: false
@@ -834,10 +834,10 @@ utility: false
 # V
 value-axis: false
 versus-vs: false
-video-call-videoconference: false
-video-card: false
+video-call-videoconference: true #Terms.yml
+video-card: true #Terms.yml
 video-display: false
-video-driver: false
+video-driver: true #Terms.yml
 video-game: false
 virtual: false
 virtual-agent: false
@@ -850,7 +850,7 @@ vulnerability: false
 
 # W
 w3c: false
-want: false #ComplexWords.yml
+want: false
 we: true #We.yml
 wearable-wearable-device: false
 web-world-wide-web-www: false
@@ -895,6 +895,6 @@ y-coordinate: false
 # Z
 z: false
 z-axis: false
-zero-zeros: false
+zero-zeros: true #Terms.yml
 zip-code: false
 zoom-in-zoom-out: false

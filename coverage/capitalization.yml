@@ -2,4 +2,5 @@
 sentence-style-capitalization: true
 
 capitalize-the-first-word: false
-uppercase-for-emphasis: false
+# Uppercase.yml
+uppercase-for-emphasis: true

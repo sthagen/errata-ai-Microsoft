@@ -1,0 +1,4 @@
+$ cdf ${ROOTDIR}/fixtures/Plurals
+$ vale --output=line --sort --normalize --relative --no-global --no-exit .
+test.md:3:130:Microsoft.Plurals:Don't add '(s)' to a singular noun. Use plural instead.
+test.md:5:13:Microsoft.Plurals:Don't add '(es)' to a singular noun. Use plural instead.

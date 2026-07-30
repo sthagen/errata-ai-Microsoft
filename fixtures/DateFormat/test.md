@@ -11,3 +11,7 @@ Users may see the following behavior.
 The project started in May of 2013.
 
 Is it June first?
+
+Also check 15 Apr 2016, 3 Jun 2016, 4 Jul 2016, 5 Aug 2016, and 6 Oct 2016.
+
+Is it Oct first?

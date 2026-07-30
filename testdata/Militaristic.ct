@@ -1,0 +1,10 @@
+$ cdf ${ROOTDIR}/fixtures/Militaristic
+$ vale --output=line --sort --normalize --relative --no-global --no-exit .
+test.md:3:4:Microsoft.Militaristic:Consider 'cyberattacker' instead of 'attacker'.
+test.md:5:12:Microsoft.Militaristic:Consider 'impact' instead of 'blast radius'.
+test.md:5:49:Microsoft.Militaristic:Consider 'cyberattack chain' instead of 'cyber kill chain'.
+test.md:7:1:Microsoft.Militaristic:Consider 'security analysts' instead of 'Frontline analysts'.
+test.md:7:32:Microsoft.Militaristic:Consider 'external exposure' instead of 'external attack surface'.
+test.md:9:16:Microsoft.Militaristic:Consider 'secured' instead of 'locked down'.
+test.md:9:42:Microsoft.Militaristic:Consider 'protection' instead of 'first line of defense'.
+test.md:11:7:Microsoft.Militaristic:Consider 'threat actors' instead of 'adversaries'.

@@ -1,0 +1,13 @@
+# Contractions.yml
+use-contractions: true
+
+# Wordiness.yml, Adverbs.yml
+use-simple-words-concise-sentences: true
+
+dont-use-common-words-in-new-ways: false
+use-technical-terms-carefully: false
+# Jargon.yml
+avoid-jargon: true
+
+# Foreign.yml
+use-us-spelling-avoid-non-english-words: true

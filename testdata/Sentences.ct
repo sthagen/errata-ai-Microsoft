@@ -1,0 +1,6 @@
+$ cdf ${ROOTDIR}/fixtures/Sentences
+$ vale --output=line --sort --normalize --relative --no-global --no-exit .
+test.md:5:21:Microsoft.Spacing:'y.  T' should have one space.
+test.md:9:4:Microsoft.Spacing:'failed.T' should have one space.
+test.md:11:10:Microsoft.Spacing:'e?Y' should have one space.
+test.md:13:4:Microsoft.Spacing:'p!G' should have one space.

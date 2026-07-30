@@ -1,2 +1,8 @@
+# GenderBias.yml, Gender.yml
 gender-neutral: true
-culturally-sensitive: false
+
+# BiasFree.yml
+culturally-sensitive: true
+
+# Militaristic.yml
+militaristic-language: true

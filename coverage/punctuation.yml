@@ -1,0 +1,34 @@
+formatting-punctuation: false
+apostrophes: false
+
+# HeadingColons.yml
+colons: true
+
+# OxfordComma.yml
+commas: true
+
+# Ellipses.yml
+ellipses: true
+
+# Dashes.yml, Negative.yml
+em-dashes-en-dashes-hyphens-and-minus-signs: true
+
+# Hyphens.yml, Auto.yml, Suspended.yml
+hyphens: true
+
+# ExclamationPoints.yml
+exclamation-points: true
+
+# HeadingPunctuation.yml, Spacing.yml
+periods: true
+
+# QuestionMarks.yml
+question-marks: true
+
+# Quotes.yml
+quotation-marks: true
+
+# Semicolon.yml
+semicolons: true
+
+slashes: false

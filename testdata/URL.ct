@@ -1,0 +1,4 @@
+$ cdf ${ROOTDIR}/fixtures/URL
+$ vale --output=line --sort --normalize --relative --no-global --no-exit .
+test.md:1:11:Microsoft.URLFormat:Use 'of' (not 'for') to describe the relationship of the word URL to a resource.
+test.md:3:11:Microsoft.URLFormat:Use 'of' (not 'for') to describe the relationship of the word URL to a resource.

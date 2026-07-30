@@ -1,0 +1,7 @@
+$ cdf ${ROOTDIR}/fixtures/BiasFree
+$ vale --output=line --sort --normalize --relative --no-global --no-exit .
+test.md:3:11:Microsoft.BiasFree:Consider 'master/subordinate' instead of 'master/slave'.
+test.md:5:23:Microsoft.BiasFree:Consider 'perimeter network' instead of 'DMZ'.
+test.md:5:38:Microsoft.BiasFree:Consider 'perimeter network' instead of 'demilitarized zone'.
+test.md:9:9:Microsoft.BiasFree:Consider 'stops responding' instead of 'hangs'.
+test.md:11:7:Microsoft.BiasFree:Consider 'quick check' instead of 'sanity check'.

@@ -17,6 +17,6 @@ negative-numbers: true
 # Ordinal.yml
 ordinal-numbers: true
 
-# Ranges.yml, RangeFormat.yml, RangeTime.yml
+# RangeTime.yml
 ranges-of-numbers: true
 
