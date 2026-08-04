@@ -32,3 +32,11 @@ These quotations are correctly punctuated:
 He paused before saying “bananas are not something people should hate”.
 
 Don’t use suspended compound modifiers, such as left- and right-aligned text, unless space is limited. Instead, spell out the entire phrase.
+
+When your alarm clock rings, you turn it off and tumble out of bed.
+
+When your belly rumbles, you walk to the fridge and get a snack.
+
+When the alarm rings, John turns it off and tumbles out of bed.
+
+When it rains, apples, pears or bananas get wet.

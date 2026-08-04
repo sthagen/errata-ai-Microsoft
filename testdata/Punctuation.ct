@@ -8,3 +8,4 @@ test.md:21:10:Microsoft.Quotes:Punctuation should be inside the quotes.
 test.md:25:19:Microsoft.Semicolon:Try to simplify this sentence.
 test.md:32:25:Microsoft.Quotes:Punctuation should be inside the quotes.
 test.md:34:49:Microsoft.Suspended:Don't use 'left- and right-' unless space is limited.
+test.md:42:22:Microsoft.OxfordComma:Use the Oxford comma in ', pears or bananas get wet.'.
